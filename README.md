@@ -32,7 +32,7 @@ Meine Ausbildung habe ich bei der **Developer Akademie** absolviert, wo ich prax
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogancelik&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogan36&layout=compact&theme=default)
 
 ---
 
